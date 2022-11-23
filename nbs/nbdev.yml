@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "h6lp"
+  site-url: "https://klmrgrss.github.io/h6lp"
+  description: "katse nr n nbdev asjas"
+  repo-branch: main
+  repo-url: "https://github.com/klmrgrss/h6lp"
