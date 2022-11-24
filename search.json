@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "h6lp",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "h6lp",
+    "section": "Install",
+    "text": "Install\npip install h6lp"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "h6lp",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Filling filling filling Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nnbdev_export??\n\n\n1 + 1 + 1\n\n3\n\n\n\n\nselle asjaga on midagi nihu, peaks nägema outputti aga kuvab koodi... ? \nnope, kõik korras, oli vaja kood ülal jooksutada\n\n\n\ndef say_hello(to:str # name of person to say hello to\n             ):\n    \"Say hello to somebody\"\n    return f'Hello {to}!'\nsay_hello('Madam')\n\n'Hello Madam!'\n\n\n\n1 + 1\n\n2\n\n\n\n2-2\n\n0\n\n\n\n3+3\n\n6\n\n\n\nnbdev_export\n\n<function nbdev.doclinks.nbdev_export(path: str = None, *, symlinks: bool = False, file_glob: str = '*.ipynb', file_re: str = None, folder_re: str = None, skip_file_glob: str = None, skip_file_re: str = '^[_.]', skip_folder_re: str = '^[_.]')>"
+  }
+]
